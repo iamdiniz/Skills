@@ -1,2 +1,5 @@
 insert into author (id, name, email, password, country) values (1, 'Denzel', 'denzel@gmail.com', 'denzel123', 'EUA');
 insert into author (id, name, email, password, country) values (2, 'Will', 'will@gmail.com', 'will123', 'ASIA');
+
+insert into book (id, title, genre, year, score, short_Description, long_Description) values (1, 'Batman Origins', 'Action', '1988', 5.0, 'Batman Begins conta a historia de Bruce Wayne que acaba perdendo seus pais em um assalto a mão armada', 'Batman Begins conta a historia de como Bruce Wayne se tornou o Batman apos perder seus pais em um assalto a mão armada. Batman é um heroi focado e não brinca em serviço');
+insert into book (id, title, genre, year, score, short_Description, long_Description) values (2, 'Titanic', 'Drama', '1970', 5.0, 'Veja como foi o grande triunfo do maior navio do mundo. Titanic', 'Titanic foi o maior navio do mundo, nesse livro você verá a historia por tras de todos os seus acontecimentos');
