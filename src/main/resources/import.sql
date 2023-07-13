@@ -1,0 +1,2 @@
+insert into author (id, name, email, password, country) values (1, 'Denzel', 'denzel@gmail.com', 'denzel123', 'EUA');
+insert into author (id, name, email, password, country) values (2, 'Will', 'will@gmail.com', 'will123', 'ASIA');
